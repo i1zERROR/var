@@ -1,0 +1,3 @@
+{
+    "CallbackURL": "https://discord.com/api/oauth2/authorize?client_id=1192599933975531622&response_type=code&redirect_uri=https%3A%2F%2F7ca88e54-0dca-463b-966b-a7d829f44b07-00-3050kg8gn5l64.picard.replit.dev%2Flogin&scope=identify+guilds+email+guilds.join+gdm.join"
+}
